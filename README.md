@@ -3,7 +3,7 @@
 
 - I’m currently exploring cloud technologies on GitHub to enhance my skills
 
-- My Online Protfolio is [www.hrishikeshsnair.com](www.hrishikeshsnair.com)
+- My Online Protfolio is [www.hrishikeshsnair.com](https://www.hrishikeshsnair.com/)
 
 - How to reach me **work@hrishikeshsnair.com**
 
